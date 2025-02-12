@@ -2,7 +2,7 @@ Let's break down the project description and create a full plan for the HTML, CS
 
 Project Overview:
     The website consists of 5 pages:
-          1. HomePage (index.html)
+      1. HomePage (index.html)
       2. MenuPage (menu.html)
       3. AboutPage (about.html)
       4. ContactPage (contact.html)
