@@ -1,4 +1,5 @@
-Let's break down the project description and create a full plan for the HTML, CS and JavaScript project. The goal of this project is to create a 5-page website using HTML for structure, CSS for styling, and a bit of JavaScript for interactivity.
+Let's break down the project description and a full plan for the HTML, CS and JavaScript project. 
+The goal of this project is to create a 5-page website using HTML for structure, CSS for styling, and a bit of JavaScript for interactivity.
 
 Project Overview:
     The website consists of 5 pages:
@@ -7,7 +8,7 @@ Project Overview:
       3. AboutPage (about.html)
       4. ContactPage (contact.html)
       5. BookingPage (booking.html)
-    Each page will be designed using basic HTML and CSS. The project will also include a bit of JavaScript for form validation or simple interactions where necessary.
+  Each page will be designed using basic HTML and CSS. The project will also include a bit of JavaScript for form validation or simple interactions where necessary.
 
 Key Concepts:
    - HTML will be used to define the structure of each page.
